@@ -1,0 +1,53 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+.bg1{
+    background: #ecfdff;
+}
+.yy{
+    padding-top: 120px;
+    padding-bottom: 60px;
+}
+.tt{
+    font-size: 45px;
+}
+.qq{
+    padding-right: 50px;
+}
+.sp{
+    font-size: 17px;
+}
+.image{
+    height: 130px;
+    object-fit: cover;
+}
+
+.bb{
+    font-size: 17px;
+}
+.rightt{
+    padding-right: 70px;
+}
+.pppp{
+    top: 30px;
+    left: 40px;
+}
+.imgg{
+    width: 140px;
+}
+.mm{
+    font-size: 50px;
+}
+.ww{
+    font-size: 21px;
+}
+a{
+    text-decoration: none;
+}
+.ppp{
+    top: 20px;
+    left: 30px;
+}
+.aa{
+    top: 70px;
+    left: 160px;
+    text-align: center;
+}
